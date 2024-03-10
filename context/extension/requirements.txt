@@ -1,0 +1,5 @@
+llmtuner==0.5.3
+deepspeed==0.13.1
+bitsandbytes==0.42.0
+opencc
+opencc-python-reimplemented
