@@ -1,11 +1,16 @@
-## build image
+## Build image
 ```
 build.sh
 ```
 
-## push image
+## Push image
 ```
 push.sh.sh
+```
+
+## RUN image from Docker
+```
+docker run -d c00cjz00/c00cjz00_cuda11.8_pytorch:2.1.2-cuda11.8-cudnn8-devel-llama_factory_v1
 ```
 
 ## FIX
